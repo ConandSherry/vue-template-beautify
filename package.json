@@ -7,7 +7,10 @@
     "activationCommands": {
         "atom-workspace": "vue-template-beautify:toggle"
     },
-    "repository": "https://github.com/atom/vue-template-beautify",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ConandSherry/vue-template-beautify"
+    },
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
