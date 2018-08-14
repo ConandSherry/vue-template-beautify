@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 -   Initial release
 
+## [0.1.2]
+
+-   Remember cursor position after formated
+
 ## [0.1.1]
 
 -   Using `vue-template-compiler` to get template content instead
