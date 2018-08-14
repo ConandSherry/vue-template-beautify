@@ -1,7 +1,7 @@
 {
   "name": "vue-template-beautify",
   "main": "./lib/vue-template-beautify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Beautify template in .vue file",
   "keywords": [],
   "activationCommands": {
